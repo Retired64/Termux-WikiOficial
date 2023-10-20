@@ -54,10 +54,10 @@
 * `pkg install git -y`
 
 ### comando==>[2]
-* `git clone htts://github.com/DeepSociety/wiki-termux`
+* `git clone https://github.com/Retired64/Termux-WikiOficial.git `
 
 ### comando==>[3]
-* `cd wiki-termux`
+* `cd Termux-WikiOficial`
 
 ### comando==>[4]
 * `chmod 771 wiki`
